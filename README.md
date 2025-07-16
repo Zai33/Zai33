@@ -22,7 +22,6 @@
 - 🔗 LinkedIn: [https://www.linkedin.com/in/kyaw-zin-win-htike-64a6a6269/]
 
 📈 GitHub Stats:
-![Zai33's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zai33&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zai33&layout=compact&theme=radical)
 
 
