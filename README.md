@@ -18,8 +18,8 @@
 - Real-world backend APIs and admin dashboards
 
 📫 How to reach me:
-- 📧 Email: [zai33@example.com] *(replace this with your actual email if you'd like)*
-- 🔗 LinkedIn: [Your LinkedIn link here]
+- 📧 Email: [kyawzinwinhtike6@gmail.com] 
+- 🔗 LinkedIn: [https://www.linkedin.com/in/kyaw-zin-win-htike-64a6a6269/]
 
 📈 GitHub Stats:
 ![Zai33's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zai33&show_icons=true&theme=radical)
